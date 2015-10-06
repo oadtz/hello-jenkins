@@ -1,0 +1,1 @@
+C:\Users\pirmpht\Documents\_Projects\hello-jenkins\node_modules\.bin\mocha.cmd C:\Users\pirmpht\Documents\_Projects\hello-jenkins\test\test.js
